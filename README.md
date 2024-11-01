@@ -12,7 +12,7 @@
 </div>
 
 <div id="heythere" align="center"> 
-    <h1>Проиль на GITHUB</h1> 
+    <h1>Профиль на GITHUB</h1> 
 </div>
 
 
