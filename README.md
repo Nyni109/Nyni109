@@ -47,3 +47,9 @@
 <div> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nyni109" alt=""/>  
 </div>
+
+### :bar_chart: Статистика активности :
+
+<div> 
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nyni109&theme=react-dark" alt="Activity Graph of rompersStomper"/>  
+</div>
